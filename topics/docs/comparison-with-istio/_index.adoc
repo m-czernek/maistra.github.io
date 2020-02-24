@@ -59,8 +59,8 @@ Upstream Istio has two cluster scoped resources that it relies on. The MeshPolic
 
 For more information on how to use them, see these examples:
 
-- ServiceMeshPolicy: link:../../examples/mesh-wide_mtls/[Enabling Mesh-wide Strict mTLS]
-- ServiceMeshRbacConfig: link:../../examples/mesh-wide_rbac/[Enabling Mesh-wide RBAC Policy Enforcement].
+- ServiceMeshPolicy: link:../examples/mesh-wide_mtls/[Enabling Mesh-wide Strict mTLS]
+- ServiceMeshRbacConfig: link:../examples/mesh-wide_rbac/[Enabling Mesh-wide RBAC Policy Enforcement].
 
 === Component Modifications
 
